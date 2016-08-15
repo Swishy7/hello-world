@@ -1,2 +1,3 @@
 # hello-world
-see name :P
+# see name :P
+print("Hello World")
